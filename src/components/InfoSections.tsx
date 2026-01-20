@@ -167,11 +167,11 @@ const InfoSections = () => {
 
       <footer className="bg-[#1A1F2C] text-white py-8 px-6">
         <div className="container mx-auto text-center">
-          <div className="flex items-center justify-center gap-2 mb-4">
-            <Icon name="Award" className="text-[#D4AF37]" size={24} />
-            <span className="text-xl font-bold">RibbonPrint</span>
+          <div className="flex items-center justify-center gap-3 mb-4">
+            <img src="https://cdn.poehali.dev/projects/fc1c126a-0ad0-465a-84d0-e9176bb71a30/files/3c982754-9d23-4094-bc65-42281a21646f.jpg" alt="LENTA perfect logo" className="h-8 w-8 object-contain" />
+            <span className="text-xl font-bold">LENTA <span className="text-[#D4AF37]">perfect</span></span>
           </div>
-          <p className="text-white/70 text-sm">© 2024 RibbonPrint. Все права защищены.</p>
+          <p className="text-white/70 text-sm">© 2024 LENTA perfect. Все права защищены.</p>
         </div>
       </footer>
     </>
